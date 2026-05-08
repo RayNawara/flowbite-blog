@@ -64,6 +64,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem 'friendly_id', '~> 5.6.0'
+gem 'friendly_id', '~> 5.7.0'
 
 gem 'sitemap_generator'
